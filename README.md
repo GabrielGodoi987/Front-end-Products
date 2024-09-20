@@ -10,12 +10,7 @@ Este é o frontend do sistema de gerenciamento de produtos, que se comunica com 
 
 ## Tecnologias Utilizadas
 
-- **Vue.js**: Framework JavaScript para construção da interface do usuário.
-- **Quasar Framework**: Utilizado para criar uma UI responsiva e bem estruturada.
-- **Axios**: Para realizar requisições HTTP à API backend.
-- **Vue Router**: Para navegação entre as páginas.
-- **Vuex** (opcional): Para gerenciamento de estado global (se o projeto necessitar).
-
+- **??
 ## Instalação e Execução
 
 1. Clone o repositório do frontend:
