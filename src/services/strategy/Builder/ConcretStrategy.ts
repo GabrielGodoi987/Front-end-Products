@@ -7,5 +7,8 @@ export class ConcretStrategy<T> implements Builder<T> {
     constructor() {
         this.axios = AxiosBaseUrl;
     }
-    create(entity: T, path: string, data: any): void { }
+
+    create(entity: T, path: string, data: any): void {}
+    update(id: string, entity: T, path: string): void {}
+    delete(id: string, path: string): void {}
 }
