@@ -10,7 +10,11 @@ Este é o frontend do sistema de gerenciamento de produtos, que se comunica com 
 
 ## Tecnologias Utilizadas
 
-- **??
+- **Vue.js**
+- **Vuetify**
+- **Pinia**
+- TypeScript
+
 ## Instalação e Execução
 
 1. Clone o repositório do frontend:
